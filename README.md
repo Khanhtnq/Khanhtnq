@@ -1,16 +1,16 @@
-## Hi there 👋
+# Khanh Tran (`@Khanhtnq`)
 
-<!--
-**Khanhtnq/Khanhtnq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Architecture · Smart Contract Security · High-Reliability CI/CD & Distributed Backends**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Engineering Focus
+- **Systems & Performance Engineering**: `Rust`, `C++`, `Go` — memory-safe concurrency, low-latency network services, and cross-platform runtime tooling.
+- **Web3 & Protocol Infrastructure**: `Solidity`, `Foundry`, `Hardhat`, `EVM` & `Solana` — Diamond storage layouts (EIP-2535), cross-chain bridges, formal verification, and automated security auditing.
+- **Full-Stack & DevOps Automation**: `TypeScript`, `Python`, `GitHub Actions`, `Docker` — deterministic CI/CD pipelines, static analysis workflows, and developer tooling.
+
+---
+
+### Recent Open-Source & Bounty Contributions
+- **Protocol CI & Storage Layout Verification**: Root-cause diagnostics and workflow hardening for Diamond proxy storage layout checks (`foundry-storage-check`, `@actions/artifact` v2 migrations, and baseline artifact lifecycles).
+- **Automated Security & Code Quality**: Delivering minimal-diff, well-tested patches with full root-cause documentation.
